@@ -1,0 +1,108 @@
+body{
+    font-family: 'Sigmar One', ;
+    margin: 0px;
+    padding: 0px;
+    text-align: justify;
+
+}
+
+section{
+    height:120px;
+    margin-bottom: 500px;
+}
+
+.top-banner{
+    background-image: url("images/top-banner.png") ;
+    background-repeat: no-repeat;
+}
+.middle-banner{
+    background-image: url("images/exp-bg.png") ;
+    background-repeat: no-repeat;
+}
+
+.a{
+    font-size: 50px;
+    color: darksalmon;
+}
+
+.half{
+   width: 40%;
+   float: left;
+   margin-left: 10%;
+  
+  margin-top: 100px;
+}
+img{
+    width:60%;
+    
+}
+
+.nav-link{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,lightsalmon,tomato);
+    border-radius: 5px;
+    padding: 15px 40px;
+    color: forestgreen;
+   
+}
+
+.b{
+    margin-right: 30%;
+    color: dimgray;
+}
+h2{
+    text-align: center;
+    font-size: 40px;
+    color:darkslateblue;
+}
+
+.latest-work-image{
+    width:30%;
+    float: left;
+    padding-left: 2%;
+    margin: auto;
+    
+    
+}
+.latest-work-image img{
+    width:70%;
+    padding-left: 70px;
+    padding-top: 40px;
+
+}
+.latest-work{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+}
+
+.last{
+    font-size: 20px;
+    text-align: center;
+}
+
+.quote{
+    width: 500px;
+	margin-left: 450px;
+
+    font-size: 20px;
+    font-weight: 700;
+    color: dimgray;
+    
+    
+}
+.contact-mail{
+    background-image: linear-gradient(90deg, hotpink, tomato);
+    margin:20px 200px;
+    border: 1px solid blue;
+    
+
+    border-radius: 20px;
+ 
+
+}
+footer p{
+    text-align: center;
+    font-size: 30px;
+    color: dimgray;
+  
+}
